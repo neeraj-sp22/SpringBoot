@@ -9,6 +9,7 @@ public class JenkinsDemoApplication {
 	public static void main(String[] args) {
 		System.out.println("Project JenkinsDemoApplication started.");
 		SpringApplication.run(JenkinsDemoApplication.class, args);
+		System.out.println("Project JenkinsDemoApplication Finished.");
 	}
 
 }
